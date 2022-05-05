@@ -1,4 +1,4 @@
-Russell You to Everyone (1:20 pm)
+
 Problem Title: Voting
 
 Problem Description:
